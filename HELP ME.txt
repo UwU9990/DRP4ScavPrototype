@@ -1,0 +1,6 @@
+How do I use this mod?
+
+Simple, just download MelonLoader https://github.com/LavaGang/MelonLoader/releases
+Then you can open MelonLoader click "CasualtiesUnknown" and click "Install"
+Now go to your game directory and in "Mods" folder, place both DLL files for the mod to work. :)
+Mod by Azbith.
